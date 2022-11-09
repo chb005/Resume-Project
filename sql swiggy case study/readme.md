@@ -16,3 +16,8 @@ Homework
 1. Find the most loyal customers for all restaurant
 2. Month over month revenue growth of a restaurant
 3. Most Paired Products
+
+<p align="center">
+  <img src="https://github.com/chb005/Resume-Project/blob/main/sql%20swiggy%20case%20study/1.jpg" width="750" title="hover text">
+  <img src="https://github.com/chb005/Resume-Project/blob/main/sql%20swiggy%20case%20study/2.jpg" width="750" alt="accessibility text">
+</p>
