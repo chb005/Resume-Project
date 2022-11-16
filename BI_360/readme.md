@@ -10,6 +10,8 @@ Business Intelligence 360 Dashboard Insights
 5. Performed Scheduled Refresh and RLS Integration
 
 <p align="center">
-  <img src="https://github.com/chb005/Resume-Project/blob/main/BI_360/12.jpg" width="750" title="hover text">
-
+  <img src="https://github.com/chb005/Resume-Project/blob/main/BI_360/1.jpg" width="750" title="hover text">
+  <img src="https://github.com/chb005/Resume-Project/blob/main/BI_360/2.jpg" width="750" title="hover text">
+    <img src="https://github.com/chb005/Resume-Project/blob/main/BI_360/3.jpg" width="750" title="hover text">
+    <img src="https://github.com/chb005/Resume-Project/blob/main/BI_360/4.jpg" width="750" title="hover text">
 </p>
